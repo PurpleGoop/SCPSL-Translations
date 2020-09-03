@@ -37,7 +37,7 @@ Distanza ombre
 Motion Blur
 Correzione del colore
 Anti Aliasing
-Modalità di rendering della luce
+Abilita luci
 Volume principale
 Effetti sonori
 Chat vocale
@@ -57,7 +57,7 @@ Lingua
 Menu principale
 Connetti
 Indietro
-Questa modifica richiederà un ricaricamento.\nRicaricare ora il menu?
+Questa modifica richiederà un riavvio.\nRiavviare ora il menu?
 Si
 No
 Sei sicuro di voler uscire?
